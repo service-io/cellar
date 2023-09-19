@@ -19,3 +19,13 @@
 
 # Go workspace file
 go.work
+
+.DS_Store
+
+*.iml
+*.lock
+.idea
+temp/
+logs/
+bin/
+*.log
